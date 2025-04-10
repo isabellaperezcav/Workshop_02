@@ -95,7 +95,7 @@ GOOGLE_APPLICATION_CREDENTIALS=/full/path/to/credentials/google_credentials.json
 
 - 🎵 [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)  
 - 🏆 [Grammy Awards Dataset](https://www.kaggle.com/datasets/unanimad/grammy-awards)  
-- 🌐 [last.fm](https://www.last.fm/api/intro)  
+- 🌐 [last.fm](https://www.last.fm)  
 
 ---
 
