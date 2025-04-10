@@ -21,7 +21,8 @@ This project implements a **complete ETL pipeline** using Apache Airflow. It ext
 ```bash
 WORKSHO_002/
 │
-├── API/                          
+├── API/                        # Last.fm API analysis
+│   └── 001_EDA.ipynb                      
 │
 ├── dags/
 │   └── dags_conections/        # Airflow connection settings
